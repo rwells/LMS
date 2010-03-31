@@ -1,0 +1,64 @@
+﻿http://www.dotnetspider.com/projects/702-Online-Library-Management-System.aspx
+
+
+
+As the name suggests Library Management System will deal in all the requirements needed for managing libraries. 
+It will deal with the process of maintaining data about the books and many other things as well as transactions, 
+which are taking place in the library with respect to the issue and return of the books.
+
+This solution helps the 
+administrator to accomplish his tasks at ease. This solution is an online library management system, which lets 
+users sign-up to the library initially and then sign-in every time they want to find some item in the library. 
+The user can also maintain and edit his profile details.
+
+It also lets administrators manage the library from their 
+desktop. They can monitor any item, its stock and other related information. A user can sign-in and search for 
+items, borrow items if they are present in the library. All details of the user are stored in the database, 
+which eases pressure on the administrator about defaulters. The administrator can block or remove the defaulters 
+from the library. The user need not visit the library every time to find an item; instead, he/she can search 
+items from his/her own PC/laptop. 
+
+Reports can also be generated for individual items or for number of defaulters and the number of transactions for an item or by a user.
+
+1.4. Benefits:
+
+? 
+Information about the library database is accurate at any given point of time since its all automatic and updated after every transaction.
+? 
+
+Users can find items, change profile details, etc., from their homes as the library’s transactions are online.
+? 
+Managing the database is easy and so is its maintenance. 
+
+It does not require much of care and goes on until it isn’t affected due to heavy trafficking.
+? 
+Data is sorted into different tables to differentiate content and it can easily converted into reports for presentations.
+? 
+An efficient Library Management Solution that, enables in maintaining and retrieving the books within no time.
+? 
+Access of single records to multiple locations through Network / Web based.
+? 
+Maintaining an audit trail for keeping track of all activities performed on records by users.
+? 
+Fool proof security for library collection.
+? A Secure and easy to share database.
+? 
+Reducing the workload on library’s professional as well non-professional staff.
+? 
+Providing round the clock services to users.
+? 
+Maintains data about the books of the library.
+? 
+Arranging data in logical order for easy maintenance.
+? 
+Collection of data about books, which are issued.
+? 
+Collection of data about books, which are returned.
+? 
+Data of fine on the members for late return of books.
+? 
+Generation of various reports according to the management request.
+? 
+Design and implement a library database based on a standard library classification system.
+? 
+Build the interface between the online screens and the library database system.
